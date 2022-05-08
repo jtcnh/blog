@@ -3,3 +3,10 @@ languageCode : en-us
 title : bloggertom
 publishDir : /docs/
 theme : hugo-PaperMod
+menu:
+  main:
+  - identifier: tags
+    name: Topics
+    title: tags
+    url: /tags/
+    weight: 10

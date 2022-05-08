@@ -1,7 +1,7 @@
 ---
-title: "I blog now."
+title: "I Blog Now."
 date: 2022-05-08T09:21:21-04:00
-weight: 1
+tags: ['blogging']
 ---
 
 # I've decided to start blogging.
