@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>qweekertoms blog</title>
+    <title>bloggertom</title>
     <link>https://qweekertom.github.io/blog/</link>
-    <description>Recent content on qweekertoms blog</description>
+    <description>Recent content on bloggertom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 May 2022 09:21:21 -0400</lastBuildDate><atom:link href="https://qweekertom.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog.new()</title>
+      <title>I blog now.</title>
       <link>https://qweekertom.github.io/blog/posts/mypost/</link>
       <pubDate>Sun, 08 May 2022 09:21:21 -0400</pubDate>
       
       <guid>https://qweekertom.github.io/blog/posts/mypost/</guid>
-      <description>Welcome to the blog. had to update something I think.
-its in markdown
--- example code function welcome() 	print(&amp;#34;welcome to my blog&amp;#34;) end Thats it.</description>
+      <description>I&amp;rsquo;ve decided to start blogging. Why? Because I want to put every waking thought into text. This is rather easy, and if people do or don&amp;rsquo;t read it I don&amp;rsquo;t much care. It&amp;rsquo;s just out here.
+I made the blog using Hugo, and hosted it on GitHub, using the whole docs and deploy. Ran into a few problems using submodules, and forcing git to pretend they didn&amp;rsquo;t exist but otherwise it was pretty damn easy.</description>
     </item>
     
   </channel>
