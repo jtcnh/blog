@@ -1,5 +1,0 @@
-baseURL = 'https://qweekertom.github.io/blog'
-languageCode = 'en-us'
-title = 'qweekertoms blog'
-publishDir = '/docs/'
-theme = 'hugo-PaperMod'

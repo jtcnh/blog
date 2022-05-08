@@ -8,12 +8,14 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 08 May 2022 09:21:21 -0400</lastBuildDate><atom:link href="https://qweekertom.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mypost</title>
+      <title>Blog.new()</title>
       <link>https://qweekertom.github.io/blog/posts/mypost/</link>
       <pubDate>Sun, 08 May 2022 09:21:21 -0400</pubDate>
       
       <guid>https://qweekertom.github.io/blog/posts/mypost/</guid>
-      <description></description>
+      <description>Welcome to the blog.
+its in markdown
+-- example code function welcome() 	print(&amp;#34;welcome to my blog&amp;#34;) end Thats it.</description>
     </item>
     
   </channel>
